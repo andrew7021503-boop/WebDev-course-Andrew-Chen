@@ -1,3 +1,4 @@
 # Unit 8 Reflection
 
 [Reflect on your journey here]
+In Unit 8, I have advanced CSS and responsive web design, which transformed how I control layout and styling. I learned to use <div> elements and the class attribute to group and style content consistently, making my code more organized and reusable. I explored the CSS Box Model, understanding how padding, borders, and margins affect element spacing and positioning. I also studied the position and display properties, which give precise control over how elements are placed and behave on the page. Most importantly, I compared responsive and adaptive design, learning how to build websites that adapt smoothly to different screen sizes using flexible layouts and media queries. This unit taught me that advanced CSS is essential for creating professional, user-friendly, and visually consistent websites that work well on any device.
